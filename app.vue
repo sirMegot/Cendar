@@ -9,7 +9,7 @@
         <div class="megot"></div>
     </div>
 
-    <p>Découvrez la beauté intemporelle des cendriers, la danse éthérée de la cendre et l'empreinte mémorable des mégots.</p>
+    <p class="texte-avec-contour">Découvrez la beauté intemporelle des cendriers, la danse éthérée de la cendre et l'empreinte mémorable des mégots.</p>
   </div>
 </template>
 
@@ -43,6 +43,14 @@ body {
 
 h1, h2 {
     color: orange;
+}
+.texte-avec-contour {
+    color: white; /* Couleur du texte */
+    text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000; /* Contour noir autour du texte */
 }
 
 .cendrier {
