@@ -24,6 +24,13 @@ export default {
 
 <style>
 body {
+    background-image: url('~@/assets/wp.jpg'); 
+    background-size: cover; /* Pour couvrir toute la surface de la fenêtre du navigateur */
+    background-repeat: no-repeat; /* Pour éviter que l'image ne se répète */
+    background-position: center center; /* Pour centrer l'image */
+}
+
+body {
     font-family: 'Press Start 2P', cursive; /* Une police pixelisée */
     background-color: black;
     color: white;
