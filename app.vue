@@ -52,7 +52,7 @@ h1, h2 {
     background: linear-gradient(white 80%, orange 80%, orange 90%, #8B4513 90%, #8B4513 100%);
     margin: 50px auto;
     border-radius: 3px;
-    box-shadow: 0 0 5px rgba(255, 165, 0, 0.5); /* Lueur orange autour de la cigarette */
+    box-shadow: 0 0 15px rgba(255, 165, 0, 0.5); /* Lueur orange autour de la cigarette */
 }
 
 
