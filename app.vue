@@ -23,12 +23,19 @@ export default {
 </script>
 
 <style>
+@font-face {
+    font-family: 'Press Start 2P'; /* Remplacez par le nom que vous souhaitez donner à la police */
+    src: url('./assets/Press_Start_2P/PressStart2P-Regular.ttf'); /* Remplacez par le chemin réel du fichier de police */
+    font-weight: normal; /* ou bold, italic, etc. selon la variante */
+    font-style: normal; /* ou italic, etc. selon la variante */
+}
+
 body {
     background-image: url('./assets/wp.jpg'); 
     background-size: cover; /* Pour couvrir toute la surface de la fenêtre du navigateur */
     background-repeat: no-repeat; /* Pour éviter que l'image ne se répète */
     background-position: center center; /* Pour centrer l'image */
-    font-family: 'Press Start 2P', cursive; /* Une police pixelisée */
+    font-family: 'Press Start 2P', sans-serif;
     color: white;
     text-align: center;
     padding: 50px;
