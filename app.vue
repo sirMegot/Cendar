@@ -3,6 +3,8 @@
     <h1>L'Art de la Cendre</h1>
     <h2>Célébrons la beauté des cendriers, la cendre et les mégots</h2>
 
+    <div class="cigarette"></div>
+
     <div class="cendrier">
         <div class="megot"></div>
     </div>
