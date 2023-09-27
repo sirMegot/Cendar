@@ -24,7 +24,7 @@ export default {
 
 <style>
 body {
-    background-image: url('~@/assets/wp.jpg'); 
+    background-image: url('./assets/wp.jpg'); 
     background-size: cover; /* Pour couvrir toute la surface de la fenêtre du navigateur */
     background-repeat: no-repeat; /* Pour éviter que l'image ne se répète */
     background-position: center center; /* Pour centrer l'image */
