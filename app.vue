@@ -10,6 +10,7 @@
     </div>
 
     <p class="texte-avec-contour">Découvrez la beauté intemporelle des cendriers, la danse éthérée de la cendre et l'empreinte mémorable des mégots.</p>
+    <router-view />
   </div>
 </template>
 
