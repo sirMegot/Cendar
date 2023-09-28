@@ -7,3 +7,5 @@ new Vue({
   router,
   render: h => h(App)
 });
+
+<script src="main.js"></script>
