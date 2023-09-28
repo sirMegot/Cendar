@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h1>L'Art de la Cendre</h1>
-    <h2>Célébrons la beauté des cendriers, la cendre et les mégots</h2>
+    <h1>Le Cendar</h1>
+    <h2>Célébrons la gloire des cendars, de la cendre et des mégots</h2>
 
     <div class="cigarette"></div>
 
@@ -9,7 +9,7 @@
         <div class="megot"></div>
     </div>
 
-    <p class="texte-avec-contour">Découvrez la beauté intemporelle des cendriers, la danse éthérée de la cendre et l'empreinte mémorable des mégots.</p>
+    <p class="texte-avec-contour">Découvrez la beauté intemporelle des cendriers, la danse éthérée de la cendre et l'empreinte mémorable des mégots. Une experience qui vous est offerte par Megot.</p>
     <router-view />
   </div>
 </template>
