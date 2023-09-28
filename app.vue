@@ -75,7 +75,7 @@ h1, h2 {
 .megot {
     width: 10px;
     height: 30px;
-    background-color: white;
+    background-color: orange;
     position: absolute;
     bottom: 10px;
     left: 45px;
